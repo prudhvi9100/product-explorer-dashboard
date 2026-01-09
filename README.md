@@ -1,5 +1,7 @@
 # Product Explorer (Next.js App)
 
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://product-explorer-dashboard-gules.vercel.app/)
+
 A modern, highly responsive e-commerce product explorer built with Next.js 14+, adhering to strict TypeScript standards and modern web best practices.
 
 ## 🚀 Key Features
